@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @nicksboson
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning c and python
+- working on Web Dev
+- HTML CSS JS BOOTSTRAP 
 - 💞️ I’m looking to collaborate on programs related to my knowledge 
 - 📫 How to reach me mail me ... nikhil.garkoti0001@gmail.com
 - 😄 Pronouns: 😹 
