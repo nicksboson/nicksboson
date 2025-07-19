@@ -1,5 +1,4 @@
-# 💫 About Me:
-Hi, I'm Nikhil Garkoti 👋<br>I'm a Computer Science undergraduate at IIIT Sonepat (Batch 2024–2028) with a strong passion for full-stack web development and backend engineering. I enjoy building scalable and meaningful software projects while constantly learning new technologies.<br><br>Tech Stack:<br>Languages: C++, JavaScript, C, SQL<br>Frontend: HTML, CSS, React.js, Tailwind CSS<br>Backend: Node.js, Express.js<br>Databases: MongoDB, MySQL<br>Tools: Git, GitHub, Postman, Vercel, Render<br><br>Projects:<br><br>BitCollab – A real-time collaborative code editor using Monaco Editor and Judge0<br><br>Wanderlust – A full-stack travel listing app with user authentication<br><br>SportsNation – A responsive website for exploring sports rules and trivia<br><br>Simon Says Game – A memory-based game built using JavaScript<br><br>Spotify Clone – A visually engaging music player frontend in React<br><br><br><br>“Code. Learn. Repeat.” – Thanks for stopping by!
+
 
 
 ## 🌐 Socials:
@@ -11,6 +10,8 @@ Hi, I'm Nikhil Garkoti 👋<br>I'm a Computer Science undergraduate at IIIT Sone
 ![](https://github-readme-stats.vercel.app/api?username=nicksboson&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=nicksboson&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=nicksboson&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+# 💫 About Me:
+Hi, I'm Nikhil Garkoti 👋<br>I'm a Computer Science undergraduate at IIIT Sonepat (Batch 2024–2028) with a strong passion for full-stack web development and backend engineering. I enjoy building scalable and meaningful software projects while constantly learning new technologies.<br><br>Tech Stack:<br>Languages: C++, JavaScript, C, SQL<br>Frontend: HTML, CSS, React.js, Tailwind CSS<br>Backend: Node.js, Express.js<br>Databases: MongoDB, MySQL<br>Tools: Git, GitHub, Postman, Vercel, Render<br><br>Projects:<br><br>BitCollab – A real-time collaborative code editor using Monaco Editor and Judge0<br><br>Wanderlust – A full-stack travel listing app with user authentication<br><br>SportsNation – A responsive website for exploring sports rules and trivia<br><br>Simon Says Game – A memory-based game built using JavaScript<br><br>Spotify Clone – A visually engaging music player frontend in React<br><br><br><br>“Code. Learn. Repeat.” – Thanks for stopping by!
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=nicksboson&limit=5&theme=dark&combine_all_yearly_contributions=true)
