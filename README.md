@@ -1,8 +1,42 @@
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nikhil-garkoti) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nikhil.garkoti0001@gmail.com) 
+# Nikhil Garkoti
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+Computer Science undergraduate at IIIT Sonepat (2024–2028).
 
-# 💫 About Me:
-Hi, I'm Nikhil Garkoti 👋<br>I'm a Computer Science undergraduate at IIIT Sonepat (Batch 2024–2028) with a strong passion for full-stack web development and backend engineering. I enjoy building scalable and meaningful software projects while constantly learning new technologies. Learning Application Security<br><br>Tech Stack:<br>Languages: C++, JavaScript, C, SQL<br>Frontend: HTML, CSS, React.js, Tailwind CSS<br>Backend: Node.js, Express.js<br>Databases: MongoDB, MySQL<br>Tools: Git, GitHub, Postman, Vercel, Render<br><br>Projects:<br><br>BitCollab – A real-time collaborative code editor using Monaco Editor and Judge0<br><br>Wanderlust – A full-stack travel listing app with user authentication<br><br>SportsNation – A responsive website for exploring sports rules and trivia<br><br>Simon Says Game – A memory-based game built using JavaScript<br><br>Spotify Clone – A visually engaging music player frontend in React<br><br><br><br>“Code. Learn. Repeat.” – Thanks for stopping by!
+I build software, explore new technologies, and work on ideas that solve real problems.
+
+Currently focused on full-stack development, backend engineering, open source, and systems.
+
+## Tech Stack
+
+C++ · C · JavaScript · Python · SQL
+React · Node.js · Express · Tailwind CSS
+MongoDB · MySQL · PostgreSQL
+Git · GitHub · Linux · Postman
+
+## Projects
+
+**Akalan**
+AI-powered interview simulation platform.
+
+**BitCollab**
+Real-time collaborative code editor.
+
+**Wanderlust**
+Full-stack travel listing platform.
+
+**SportsNation**
+Sports rules and trivia platform.
+
+## Currently Learning
+
+Go · Linux · Systems · Open Source · System Design
+
+Currently exploring Flatcar Container Linux and Ignition.
+
+## Goal
+
+Turn "this should exist" into "I built it."
+
+## Connect
+
+[LinkedIn](https://linkedin.com/in/nikhil-garkoti) · [Email](mailto:nikhil.garkoti0001@gmail.com)
