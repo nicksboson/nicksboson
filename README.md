@@ -11,7 +11,7 @@ Currently focused on full-stack development, backend engineering, open source, a
 C++ · C · JavaScript · Python · SQL
 React · Node.js · Express · Tailwind CSS
 MongoDB · MySQL · PostgreSQL
-Git · GitHub · Linux · Postman
+Git · GitHub · Linux · Postman · Go · Kubernetes · CI/CD · Containers · Scaling 
 
 ## Projects
 
